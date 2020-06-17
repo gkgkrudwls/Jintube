@@ -1,0 +1,22 @@
+{
+  "name": "jintube",
+  "version": "1.0.0",
+  "description": "A brave journey to become a full stack developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkgkrudwls/Jintube.git"
+  },
+  "author": "Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkgkrudwls/Jintube/issues"
+  },
+  "homepage": "https://github.com/gkgkrudwls/Jintube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
